@@ -1,2 +1,3 @@
 # django_contacts
-Craete contacts
+
+<img src="./contact.png">
