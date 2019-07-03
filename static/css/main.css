@@ -33,25 +33,19 @@ nav {
   color: white;
   text-decoration: none;
 }
-form {
-  position: relative;
+.feature-link{
+  margin-top: 5px !important;
+  margin-bottom: 5px !important;
 }
-button {
-  position: absolute;
-  right: 1px;
-  outline: none;
-  cursor: pointer;
-}
-button i {
-  color: var(--back);
-}
-
-input {
+.search-box {
   border-radius: 0px !important;
   width: 250px;
   border: none !important;
   background-color: #f2f3f5 !important;
   box-shadow: 0 1px 8px 0 rgba(0, 0, 0, 0.2);
+}
+input{
+    background-color: #f2f3f5 !important;
 }
 /* Navbar Styles end */
 

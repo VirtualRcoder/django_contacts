@@ -1,0 +1,3 @@
+./contact/migrations
+./contact/models.py
+./db.sqlite3
